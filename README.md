@@ -67,7 +67,7 @@ The conversion is handled by the `kilo_value` function, which:
 
 ## Formula Used
 To convert miles to kilometres, the program uses the formula:
-\[ \text{kilometres} = \text{miles} \times 1.60934 \]
+{kilometres} = {miles} times 1.60934 
 
 ---
 
