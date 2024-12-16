@@ -26,7 +26,7 @@ The main script that:
 - Accepts user input in miles.
 - Calculates the equivalent kilometres using the formula:
   
-  \[ \text{kilometres} = \text{miles} \times 1.60934 \]
+  {kilometres} = {miles} times 1.60934 
 
 - Displays the result in the output field.
 
